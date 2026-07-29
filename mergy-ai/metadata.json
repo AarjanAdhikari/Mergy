@@ -1,0 +1,6 @@
+{
+  "name": "Mergy",
+  "description": "Product Requirements Document for Mergy AI, presented as a modern glassmorphism web experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
